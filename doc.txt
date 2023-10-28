@@ -1,0 +1,11 @@
+font
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+color
+
+Black- #000
+White- #fff
+Orange-#FD511A
+Green- #21B573
